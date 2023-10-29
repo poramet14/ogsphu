@@ -1,4 +1,4 @@
-.container {
-    max-width: none !important;
-   background-image: url('https://imgur.com/a/L69bmYH');
+body {
+  background-image: url('https://imgur.com/a/L69bmYH');
+  background-repeat: no-repeat;
 }
