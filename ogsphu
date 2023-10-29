@@ -20,7 +20,7 @@ body { /* no . means element type */
 
 .container {
     max-width: none !important;
-   background-image: url('https://i.imgur.com/5aehvPb.jpg');
+   background-image: url('https://imgur.com/a/L69bmYH');
 }
  
 /*HIDE PARTS*/
